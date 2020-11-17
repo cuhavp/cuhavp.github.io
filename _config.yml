@@ -3,7 +3,7 @@ name: 'Testing Education Center'
 description: 'Testingvn.com is forum for tester'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/home'
+baseurl: 'https://cuhavp.github.io'
 disqus: 'Automation Receipts'
 email: 'ha.dothanh2011@gmail.com'
 
