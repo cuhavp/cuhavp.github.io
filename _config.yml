@@ -18,13 +18,48 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Ha
+    ha:
+      name:           Ha Do
       site:           https://cuhavp.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Ha, the author of Tvn education center site, the theme you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am Ha, the author of Tvn education center site"
       email:          ha.dothanh2011@gmail.com
       twitter:        https://twitter.com/dothanh2011
+    thinh:
+      name:           Thinh Tran
+      site:           ''
+      avatar:         /assets/images/avatar4.png
+      bio:            "Hi, I am Thinh, the author of Tvn education center site"
+      email:          ''
+      twitter:        '' 
+    suong:
+      name:           Suong Bui
+      site:           ''
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Hi, I am Suong, the author of Tvn education center site"
+      email:          ''
+      twitter:        '' 
+    an:
+      name:           An Vo
+      site:           ''
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Hi, I am An, the author of Tvn education center site"
+      email:          ''
+      twitter:        ''   
+    son:
+      name:           Son Hoang
+      site:           ''
+      avatar:         /assets/images/avatar5.png
+      bio:            "Hi, I am Son, the author of Tvn education center site"
+      email:          ''
+      twitter:        ''
+    vu:
+      name:           Vu Tran
+      site:           ''
+      avatar:         /assets/images/avatar6.png
+      bio:            "Hi, I am Suong, the author of Tvn education center site"
+      email:          ''
+      twitter:        ''      
 # Defaults
 defaults:
 
