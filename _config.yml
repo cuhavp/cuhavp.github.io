@@ -3,7 +3,7 @@ name: 'Testing Education Center'
 description: 'Testingvn.com is forum for tester'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/home'
+baseurl: 'https://cuhavp.github.io'
 disqus: 'Automation Receipts'
 email: 'ha.dothanh2011@gmail.com'
 
@@ -19,8 +19,8 @@ plugins:
   
 authors:
     sal:
-      name:           Ha Do
-      site:           
+      name:           Ha
+      site:           https://cuhavp.github.io
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Ha, the author of Tvn education center site, the theme you're currently previewing. I hope you like it!"
       email:          ha.dothanh2011@gmail.com
