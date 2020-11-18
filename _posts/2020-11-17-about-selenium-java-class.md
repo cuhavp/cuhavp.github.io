@@ -98,3 +98,6 @@ The result should be the path to the JDK installation:
 
 5. Làm việc với TestNG
 6. Sử dụng một framework có sẵn để viết test cases
+
+
+![Selenium class content]({{ site.baseurl }}/assets/images/19.png)
