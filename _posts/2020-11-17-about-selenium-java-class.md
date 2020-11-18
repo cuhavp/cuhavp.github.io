@@ -3,7 +3,7 @@ layout: post
 title:  "About Selenium Java class"
 author: ha
 categories: [ selenium ]
-image: assets/images/2.jpg
+image: https://images.unsplash.com/photo-1472162072942-cd5147eb3902?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80
 ---
 Selenium Java basic class, khoá học cung câp kiến thức cơ bản để làm việc với Selenium bằng Java language.
 Khoá học giúp mọi ngừoi có cách để lấy các đối tượng, viết các test case với các ví dụ từ đơn giản đến phức tạp.
