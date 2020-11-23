@@ -16,6 +16,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-pdf-embed
+
   
 authors:
     ha:
