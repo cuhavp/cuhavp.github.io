@@ -4,6 +4,7 @@ title:  "How to put parameters into xpath string with Java"
 author: ha
 categories: [ selenium ]
 image: https://images.unsplash.com/photo-1518085250887-2f903c200fee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80
+tags: [featured]
 ---
 
 Trong thực tế làm việc với Selenium, bạn sẽ thấy rất nhiều đối tượng chỉ khác nhau 1 giá trị trong xpath locator.

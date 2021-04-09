@@ -4,7 +4,7 @@ title:  "Page Object Model: Using string to define locator"
 author: ha
 categories: [ selenium,tutorial ]
 image: https://images.unsplash.com/photo-1544020385-7919c818744e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80
-tags: featured
+tags: [featured]
 ---
 
 `Page Object Model` là một cách tổ chức code(design pattern) giúp việc sử dụng hoặc khả năng đọc hiểu tốt hơn khi làm việc với Selenium. 

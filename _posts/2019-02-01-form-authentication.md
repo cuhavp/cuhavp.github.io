@@ -4,6 +4,7 @@ title:  "Working with form authentication"
 author: ha
 categories: [ selenium, tutorial ]
 image: https://images.unsplash.com/photo-1600695268275-1a6468700bd5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80
+tags: [featured]
 ---
 
 Form Authentication is basic page to login a site. So we are using selenium to create a test automated for this site.

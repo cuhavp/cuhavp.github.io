@@ -4,7 +4,7 @@ title:  "Open browser"
 author: ha
 categories: [ selenium, java ]
 image: https://images.unsplash.com/photo-1446582186851-3fe172f6acb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80
-tags: [browser]
+tags: [featured]
 ---
 Việc đầu tiên khi tìm hiểu selenium đó là selenium mở browser lên như thế nào.
 
