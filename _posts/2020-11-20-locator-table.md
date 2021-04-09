@@ -2,7 +2,6 @@
 layout: post
 title:  "Locator table"
 author: ha
-categories: [ selenium,tutorial ]
 image: https://images.unsplash.com/photo-1598149255714-de0a630b96ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80
 tags: featured
 ---

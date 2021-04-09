@@ -19,9 +19,9 @@ Trong bài này mình sẽ lấy một ví dụ để mô ta việc mình sử d
 
 ```
     WebDriver driver;
-    By usernameTxt = By.id("username");
-    By passwordTxt = By.id("password");
-    By loginBtn = By.xpath("//button[contains(.,'Login')]");
+    String usernameTxt = "username";
+    String passwordTxt = "password";
+    String loginBtn = "//button[contains(.,'Login')]";
 
     public LoginPage(WebDriver driver) {
        this.driver = driver;
@@ -32,8 +32,19 @@ Trong bài này mình sẽ lấy một ví dụ để mô ta việc mình sử d
     }
 
     public void login(String username, String password) {
-        driver.findElement(usernameTxt).sendKeys(username);
-        driver.findElement(passwordTxt).sendKeys(password);
-        driver.findElement(loginBtn).click();
+        driver.findElement(By.id(usernameTxt)).sendKeys(username);
+        driver.findElement(By.id(passwordTxt)).sendKeys(password);
+        driver.findElement(By.xpath(loginBtn)).click();
     }
 ```
+
+Trên trang login có 3 đối tượng:
+```
+    String usernameTxt = "username";
+    String passwordTxt = "password";
+    String loginBtn = "//button[contains(.,'Login')]";
+```
+Ở đây đều được khai báo là kiểu `String`. Ưu điểm của cách này là đơn giản với những bạn mới bắt đầu làm quen với Selenium bằng Page Object model.
+Vấn đều ở đây là `String usernameTxt = "username"` có khả năng là id, name, text, class name nên việc tái sử dụng lại có thể mất thêm thời gian để hiều đây là thuộc tính nào của đối tượng. Mặt khác nếu trên front-end có thay đổi cũng sẽ mất thời gian để cập nhât hoặc hiểu được đó là đối tượng nào trên UI.
+
+Để tránh được rủi ro này thì có thể đưa ra 1 chuẩn là lấy theo css hoặc xpath cho cả team làm theo.
