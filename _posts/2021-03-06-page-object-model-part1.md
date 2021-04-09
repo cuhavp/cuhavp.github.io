@@ -48,3 +48,4 @@ Trên trang login có 3 đối tượng:
 Vấn đều ở đây là `String usernameTxt = "username"` có khả năng là id, name, text, class name nên việc tái sử dụng lại có thể mất thêm thời gian để hiều đây là thuộc tính nào của đối tượng. Mặt khác nếu trên front-end có thay đổi cũng sẽ mất thời gian để cập nhât hoặc hiểu được đó là đối tượng nào trên UI.
 
 Để tránh được rủi ro này thì có thể đưa ra 1 chuẩn là lấy theo css hoặc xpath cho cả team làm theo.
+
