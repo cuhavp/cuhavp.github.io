@@ -4,6 +4,7 @@ title:  "Check broken image with selenium"
 author: ha
 categories: [ selenium, tutorial ]
 image: https://images.unsplash.com/photo-1561997968-aa846c2bf255?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80
+tags: [featured]
 ---
 
 Để kiểm tra 1 hình có được hiển thị trên 1 website hay không thông thường sẽ kiếm tra lỗi `404` khi gọi mọt request tới file đó
